@@ -1,0 +1,1 @@
+Labfiles (referred to as F: in the labs) can be found [here](https://github.com/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/tree/master/Allfiles)
