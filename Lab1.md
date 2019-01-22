@@ -1,4 +1,4 @@
-# Module 2: Deploying Resources with Azure Resource Manager
+# Deploying Resources with Azure Resource Manager
 
 # Lab Answer Key: Getting Started with Azure Resource Manager
 
@@ -188,11 +188,11 @@
 
 2.  In the **File Explorer** window that appears, navigate to the **Allfiles (F):\\Mod02\\Labfiles\\Starter** folder.
 
-3.  Right-click the **deploy.json** file and select the **Open with Code** option to start the **Visual Studio Code** application.
+3.  Right-click the **deploy.json** file and select the **Open with Code** option to start the **Your favourite IDE** application.
 
-4.  In the **Visual Studio Code** window that appears, observe the content of the JSON file.
+4.  In the **Your favourite IDE** window that appears, observe the content of the JSON file.
 
-5.  At the top of the **Visual Studio Code** window, click the **File** menu and select the **Close Folder** option.
+5.  At the top of the **Your favourite IDE** window, click the **File** menu and select the **Close Folder** option.
 
 6.  Close the **File Explorer** window.
 
