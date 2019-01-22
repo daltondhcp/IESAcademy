@@ -2,9 +2,6 @@
 
 # Lab Answer Key: Getting Started with Azure Resource Manager
 
-## Lab files can be found at: 
-    https://github.com/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/blob/master/Allfiles(https://github.com/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/blob/master/Allfiles/)
-
 ## Exercise 1: Create Resource Groups
 
 #### Task 1: Open the Azure Portal
